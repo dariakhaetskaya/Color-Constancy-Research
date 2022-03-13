@@ -17,6 +17,6 @@
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc07869c-7f97-4f5a-a596-0efdfd91d845/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220313%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220313T104834Z&X-Amz-Expires=86400&X-Amz-Signature=01898085ff3e4d1d5de6d4c1d791f870efadd0a0c5744992baa34501ad4efb1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width=550 align="right">
 
 - Researched principals of human vision
-- Developed bio inspired single and double opponent neurons
+- [Developed bio inspired single and double opponent neurons](https://github.com/dariakhaetskaya/Color-Constancy-Research/tree/main/Single%20and%20Double%20Opponent%20Neurons)
 - Developed mask based convolution
 - [Currently working on a convolutional layers combining different kids of neurons.](https://github.com/dariakhaetskaya/Color-Constancy-Research/tree/main/Combining%20Neurons)

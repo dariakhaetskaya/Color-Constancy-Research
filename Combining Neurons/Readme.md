@@ -1,1 +1,12 @@
 
+At this stage I've tried to combine different sorts of neurons to see which combination helps the most with the shadow extraction
+See results in pdf
+
+Some of them are shown here:
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc07869c-7f97-4f5a-a596-0efdfd91d845/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220313%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220313T104834Z&X-Amz-Expires=86400&X-Amz-Signature=01898085ff3e4d1d5de6d4c1d791f870efadd0a0c5744992baa34501ad4efb1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9b87fd3-eb36-4ee2-8a38-4b5c6e141e8d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220313%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220313T105644Z&X-Amz-Expires=86400&X-Amz-Signature=cca7e7ef986645eb20a84a6cb63c86b54922a522b4f798b31a2cd470e6821cdb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/094ec72e-c72e-4acb-aebf-e356e9033894/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220313%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220313T105738Z&X-Amz-Expires=86400&X-Amz-Signature=76aa044f355a76ce26cd2a247cd9269ee342b854f911f53dce30a92ba2445d62&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7f718ad2-7f7a-4bc8-a1c9-3ac72b92df33/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220313%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220313T105743Z&X-Amz-Expires=86400&X-Amz-Signature=ffbe09d87708c7b781ebc7b50b9e367cc94a63627bc910312c89101c5a2fb1ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+
+As shown by the experimental results, combinations of A and B channel single opponency and A-channel single and B-channel double opponency are the most contrast ones, and we probably can use them to extract shadows
